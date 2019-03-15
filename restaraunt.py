@@ -1,3 +1,5 @@
+#this is an older model of the restaurant code i made a while back, as you can see its not that efficient and is in need of some functions
+
 import time
 import sys
 total=0
