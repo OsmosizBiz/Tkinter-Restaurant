@@ -1,0 +1,13 @@
+Large Chips-4.50
+Medium Chips-3.50
+Small Chips-2.00
+Chips & Cheese-3.50
+Chip Butty-2.50
+Chicken Burger-4.00
+Beef Burger-3.50
+Double Beef Burger-5.00
+Mince Pie-3.50
+Steak Pie-3.50
+Sausage-1.70
+Burger-2.50
+Chicken Fillets-3.00
